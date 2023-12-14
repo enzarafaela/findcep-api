@@ -9,4 +9,4 @@ This project was building using this  [API](https://viacep.com.br/) for get a li
 - JavaScript
 - Vite
 
-[🔗 Gh Pages](https://enzarafaela.github.io/)
+[🔗 Gh Pages](https://enzarafaela.github.io/findcep-api/)
